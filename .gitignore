@@ -1,0 +1,24 @@
+# Dune / OCaml build directory
+_build/
+
+# Generated Merlin configuration
+.merlin
+
+# SQLite Database (and its temporary files)
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Editor / OS temporaries
+*~
+*.swp
+*.swo
+.DS_Store
+.vscode/
+.idea/
+
+# Opam / Dune generated install files
+*.install

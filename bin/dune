@@ -1,0 +1,4 @@
+(executable
+ (public_name kafe_backend)
+ (name main)
+ (libraries kafe_backend dream))
